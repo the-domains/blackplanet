@@ -1,0 +1,28 @@
+name: BlackPlanet
+favicon: null
+layout_spectrum: 0.40020182775333524
+typography_spectrum: 0.8558700168505311
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.341473895823583
+  lightness: 0.758805772755295
+  saturation: 0.7265637661330402
+  rhythmicContrast: 0.6881353955250233
+purpose: []
